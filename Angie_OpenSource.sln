@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angie_OpenSource", "Angie_OpenSource\Angie_OpenSource.csproj", "{AFB7889F-A3AA-447D-BDCC-01A21D3753DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsStudentChallenge", "StringsStudentChallenge\StringsStudentChallenge.csproj", "{16F31663-AEBE-4D16-903C-09642E55B289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{C2D0CB7F-65F9-4AA0-A354-A67F949B806D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{AFB7889F-A3AA-447D-BDCC-01A21D3753DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFB7889F-A3AA-447D-BDCC-01A21D3753DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFB7889F-A3AA-447D-BDCC-01A21D3753DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16F31663-AEBE-4D16-903C-09642E55B289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F31663-AEBE-4D16-903C-09642E55B289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F31663-AEBE-4D16-903C-09642E55B289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F31663-AEBE-4D16-903C-09642E55B289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D0CB7F-65F9-4AA0-A354-A67F949B806D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D0CB7F-65F9-4AA0-A354-A67F949B806D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D0CB7F-65F9-4AA0-A354-A67F949B806D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D0CB7F-65F9-4AA0-A354-A67F949B806D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

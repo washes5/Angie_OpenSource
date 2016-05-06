@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsUpperLower", "String
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicValueTypes", "BasicValueTypes\BasicValueTypes.csproj", "{AD23BF5B-AAE7-415B-9197-D7C46CDE6F0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integers", "Integers\Integers.csproj", "{A064C957-F320-4AFA-92A8-4C147F7EF740}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{CCC9FF57-195E-476C-BC7C-6158F06903E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{AD23BF5B-AAE7-415B-9197-D7C46CDE6F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD23BF5B-AAE7-415B-9197-D7C46CDE6F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD23BF5B-AAE7-415B-9197-D7C46CDE6F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A064C957-F320-4AFA-92A8-4C147F7EF740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A064C957-F320-4AFA-92A8-4C147F7EF740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A064C957-F320-4AFA-92A8-4C147F7EF740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A064C957-F320-4AFA-92A8-4C147F7EF740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC9FF57-195E-476C-BC7C-6158F06903E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC9FF57-195E-476C-BC7C-6158F06903E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC9FF57-195E-476C-BC7C-6158F06903E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC9FF57-195E-476C-BC7C-6158F06903E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

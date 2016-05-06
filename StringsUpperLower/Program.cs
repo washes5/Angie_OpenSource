@@ -14,6 +14,7 @@ namespace StringsUpperLower
             string userNameLower = "wash";
 
             Console.WriteLine("Your name in upper case is {0}.  Your name in lower case is {1}.", userNameLower, userNameUpper);
+            Console.Read();
         }
     }
 }
